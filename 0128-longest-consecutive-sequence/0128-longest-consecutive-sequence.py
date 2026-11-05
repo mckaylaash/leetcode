@@ -5,7 +5,7 @@ class Solution:
         count = 0
         max = 0
 
-        print(sort)
+        # print(sort)
         if len(sort) >= 1:
             count = 1
             max = 1
@@ -16,8 +16,8 @@ class Solution:
                 else: 
                     if count > max: max = count
                     count = 1
-                print(count)
-                print(max)
+                # print(count)
+                # print(max)
         return max
 
 
