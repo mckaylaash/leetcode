@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/mckaylaash/leetcode/tree/master/0682-baseball-game) |
 | [0706-design-hashmap](https://github.com/mckaylaash/leetcode/tree/master/0706-design-hashmap) |
 ## Hash Table
 |  |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/mckaylaash/leetcode/tree/master/0706-design-hashmap) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/mckaylaash/leetcode/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/mckaylaash/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
